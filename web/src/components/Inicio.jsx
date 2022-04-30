@@ -77,7 +77,7 @@ function Inicio () {
                 )
             } else if (result.isDenied) {
                 Swal.fire({
-                    title: "You are a pussy",
+                    title: "Retirado",
                     text: `Te haz retirado del juego en la ronda ${nivelActualIndice + 1} y te vas para casa Sofka con $${puntos} pesos`,
                     confirmButtonText: "Ok"
                 }).then((result) => {
