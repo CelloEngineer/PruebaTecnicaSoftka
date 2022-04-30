@@ -1,5 +1,6 @@
 # PruebaTecnicaSoftka
 Prueba técnica para reto Sofka
+Página parecida al juego quien quiere ser millonario, con 5 rodas de preguntas, cada una de las rondas cuenta con 5 preguntas, de las cuales se elegirá una de forma aleatoria para probar los conocimientos del usuario, por último la página tiene una recolección de puntaje en `localStorage`, con una última página de finalización del juego.
 
 # Comprobar que Node.js está instalado. Si no es así, instalarlo
 [Intrucciones para descargar acá:](https://nodejs.org/es/download/)
